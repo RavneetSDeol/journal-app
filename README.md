@@ -35,18 +35,18 @@ You’ll see a menu like:
 4. Delete Entry
 
 ## 📁 Project Structure
-journal-app/
-├── journal.py       # Main application
-├── entry.py         # JournalEntry class
-├── journal.json     # Automatically created to store your entries
-├── .gitignore       # Ignores cache files and personal journal data
-└── README.md        # You're reading it!
+journal-app/  
+├── journal.py       # Main application  
+├── entry.py         # JournalEntry class  
+├── journal.json     # Automatically created to store your entries  
+├── .gitignore       # Ignores cache files and personal journal data  
+└── README.md        # You're reading it!  
 
 ## 📜 Example Entry (Saved in JSON)
-{
-  "date": "2025-05-08 14:35:00",
-  "title": "My First Entry",
-  "body": "Today I built a Python journal app!"
+{  
+  "date": "2025-05-08 14:35:00",  
+  "title": "My First Entry",  
+  "body": "Today I built a Python journal app!"  
 }
 
 ## 🧠 Notes
