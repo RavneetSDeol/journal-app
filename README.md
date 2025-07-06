@@ -20,15 +20,15 @@ A simple command-line journal application built in Python. This app allows users
 
 ## 🔧 Setup
 
-Clone the repository:
-git clone git@github.com:ravneetsdeol/journal-app.git
+Clone the repository:  
+git clone git@github.com:ravneetsdeol/journal-app.git  
 cd journal-app
 
-Run the app:
+Run the app:  
 python3 journal.py
 
-You’ll see a menu like:
---- Personal Journal ---
+You’ll see a menu like:  
+--- Personal Journal ---  
 1. Write New Entry
 2. View Entries
 3. Exit
