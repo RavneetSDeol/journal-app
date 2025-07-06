@@ -21,7 +21,6 @@ A simple command-line journal application built in Python. This app allows users
 ## 🔧 Setup
 
 Clone the repository:
-```bash
 git clone git@github.com:ravneetsdeol/journal-app.git
 cd journal-app
 
